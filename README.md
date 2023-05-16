@@ -1,5 +1,5 @@
 # Project
-It may be a website
+It a shopping mall
 # vue3+TS
 构建的一个简单的商城，有后台，在后面会上传
 # UI
